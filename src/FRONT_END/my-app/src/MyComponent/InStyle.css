@@ -1,0 +1,12 @@
+th,td{
+    padding: 30px;
+    border-width: 5px;
+}
+table{
+    display: block;
+    margin-left:20%;
+
+}
+div{
+    background-color: blanchedalmond;
+}
